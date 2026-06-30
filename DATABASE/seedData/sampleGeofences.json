@@ -1,0 +1,38 @@
+[
+  {
+    "zoneId": "hazard-zone-1",
+    "name": "Rohtang Pass Avalanche Risk Area",
+    "dangerLevel": "HIGH",
+    "description": "Restricted zone with active landslide and avalanche warnings.",
+    "boundary": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [77.2000, 32.3500],
+          [77.2500, 32.3500],
+          [77.2500, 32.4000],
+          [77.2000, 32.4000],
+          [77.2000, 32.3500]
+        ]
+      ]
+    }
+  },
+  {
+    "zoneId": "hazard-zone-2",
+    "name": "Spiti Valley Cliff Danger Zone",
+    "dangerLevel": "CRITICAL",
+    "description": "Unpaved steep cliff tracks. Restricted driving zones.",
+    "boundary": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [78.0000, 32.1000],
+          [78.0500, 32.1000],
+          [78.0500, 32.1500],
+          [78.0000, 32.1500],
+          [78.0000, 32.1000]
+        ]
+      ]
+    }
+  }
+]
